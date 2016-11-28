@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+.margin{width:980px;margin:0 auto;}
+#head{height:94px;background:url(../images/bg1.jpg)repeat;padding-top:16px;}
+
+#head .margin img{width:980px;height:94px;}
+#nav{background:#34ab1b;height:40px;}
+#nav .margin{height:40px;}
+#nav .margin ul{height:40px;width:872px;margin-right:108px;}
+#nav .margin ul li{float:left;}
+#nav .margin ul li a{float:left;height:100%;width:109px;font:bold 12px/40px "";color:#FFF;text-align:center;}
+
+.banner{height:240px;background:url(../images/banner.jpg);margin-bottom:10px;}
+.lg img{width:100px;height:192px;position:absolute;top:176px;right:10px;border:1px solid #dce2e8;}
+#main{height:620px;margin-top:14px;}
+#main .margin{height:100%;}
+#main .margin .about{width:214px;height:620px;border-right:4px solid #c8c8c8;margin-right:16px;}
+#main .margin .about .first{width:100%;height:34px;background:url(../images/r1.jpg) repeat-x;border-bottom:1px solid #dddddd;}
+#main .margin .about .first i{float:left;font:bold 12px/34px "";height:34px;margin-left:10px;margin-right:12px;color:#ffffff;}
+#main .margin .about .first span{float:left;font:bold 12px/34px "";height:34px;color:#ffffff;} 
+#main .margin .about .sec{width:100%;height:20px;background:url(../images/o1.jpg)repeat-y;}
+#main .margin .about .third{width:100%;height:34px;background:url(../images/r1.jpg) repeat-x;border-bottom:1px solid #dddddd;}
+#main .margin .about .third i{float:left;font:bold 12px/34px "";height:34px;margin-left:10px;margin-right:12px;color:#ffffff;}
+#main .margin .about .third span{float:left;font:bold 12px/34px "";height:34px;color:#ffffff;}
+#main .margin .about .four{background:url(../images/o1.jpg)repeat-y;width:100%;height:268px;}
+#main .margin .about .four ul{height:100%;width:194px;margin-left:10px;}
+#main .margin .about .four ul li{background:url(../images/o2.jpg)no-repeat left center;border-bottom:1px dashed #dddddd;}
+#main .margin .about .four ul li a{display:inline-block;margin-left:8px;font:12px/30px "";height:30px;color:#333333;}
+#main .margin .about .five{width:100%;height:34px;background:url(../images/r1.jpg) repeat-x;border-bottom:1px solid #dddddd;}
+#main .margin .about .five i{float:left;font:bold 12px/34px "";height:34px;margin-left:10px;margin-right:12px;color:#ffffff;}
+#main .margin .about .five span{float:left;font:bold 12px/34px "";height:34px;color:#ffffff;} 
+#main .margin .about .six{height:124px;width:100%;background:url(../images/r3.jpg) repeat-y;padding-top:10px;}
+#main .margin .about .six ul{margin-left:10px;}
+#main .margin .about .six ul li{font:10px/22px "";height:22px;color:#000000;}
+#main .margin .about .six ul li i{display:inline-block;font:10px/22px "";height:22px;color:#000000;}
+#main .margin .about .six ul li a{display:inline-block;font:10px/22px "";height:22px;color:#34ab1b;}
+
+#main .margin .about .sev{width:100%;height:34px;background:url(../images/r1.jpg) repeat-x;border-bottom:1px solid #dddddd;}
+#main .margin .about .sev i{float:left;font:bold 12px/34px "";height:34px;margin-left:10px;margin-right:12px;color:#ffffff;}
+#main .margin .about .sev span{float:left;font:bold 12px/34px "";height:34px;color:#ffffff;} 
+#main .margin .about .eig{background:url(../images/r3.jpg) repeat-y;width:100%;height:30px;padding:10px 18px 8px 14px;margin-bottom:22px;}
+#main .margin .about .eig input{height:12px;width:145px;border:1px solid #34ab1b;padding:5px 0 5px 5px;}
+#main .margin .about .eig a{display:inline-block;width:30px;height:24px;font:12px/24px "";margin-top:-8px;background:#34ab1b;color:#ffffff;text-align:center;}
+#main .margin .kuai{width:744px;height:268px;border:1px solid #dddddd;}
+#main .margin .kuai .first{width:100%;height:30px;background:url(../images/r5.jpg) repeat-x;border-bottom:1px solid #dddddd;}
+#main .margin .kuai .first i{display:inline-block;margin-left:10px;font:12px/30px "";height:30px;color:#000000;}
+#main .margin .kuai .first span{display:inline-block;font:12px/30px "";height:30px;color:#666666;}
+#main .margin .kuai .sec{height:232px;width:100%;padding-left:20px;padding-top:20px;}
+#main .margin .kuai .sec span.guang{display:inline-block;font:12px/30px "";height:30px;color:#000000;}
+#main .margin .kuai .sec span.phone{display:inline-block;font:12px/30px "";height:30px;color:#000000;}
+#main .margin .kuai .sec span.dian{display:inline-block;font:12px/32px "";height:32px;color:#e53333;}
+#main .margin .kuai .sec span.dian2{display:inline-block;font:12px/32px "";height:32px;color:#e53333;margin-left:30px;}
+#main .margin .kuai .sec span.wang{display:inline-block;font:12px/30px "";height:30px;color:#000000;}
+
+
+
+
+
+
+#foo{height:30px;background:url(../images/tu14.jpg)repeat-x;}
+#foo .margin{height:100%;}
+#foo .margin a{display:inline-block;font:12px/30px "";height:30px;color:#FFF;margin-right:14px;}
+#foo .margin span{display:inline-block;font:12px/30px "";height:30px;color:#FFF;margin-right:14px;}
+#foo .margin a.fir{margin-left:308px;}
+
+
+#foot{height:176px;background:url(../images/tu15.jpg)repeat-x;padding-top:16px;}
+#foot ul{text-align:center;}
+#foot ul li{font:12px/22px "";height:22px;color:#191919;}
+
+
